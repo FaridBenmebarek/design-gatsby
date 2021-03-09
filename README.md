@@ -74,7 +74,3 @@ require("dotenv").config({
 
 .env.development
 .env.production
-
-## Algolia
-
-[algolia](https://www.algolia.com/);
